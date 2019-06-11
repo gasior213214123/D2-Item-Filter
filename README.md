@@ -1,1 +1,1 @@
-# D2-Item-filter
+# Diablo 2 item filter for Path of Diablo
